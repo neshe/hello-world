@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-ilk deneme projm
+İlk kommit denememizi branch içinde yapıyoruz.
